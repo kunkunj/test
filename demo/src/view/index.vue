@@ -15,8 +15,8 @@
     font-size: 9px;
     font-weight: 600;
     .nav_img {
-      width: 50%;
-      height: 40%;
+      width: 55%;
+      height: 50%;
       border-radius: 50%;
       background: rgba(230, 243, 255, 1);
       margin: 0 0 10px 0;
