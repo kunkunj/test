@@ -56,6 +56,7 @@
         }
         }
     }
+    
 }
 </style>
 <template>
@@ -92,7 +93,7 @@
                 <div>></div>
             </div>
         </div>
-        <div></div>
+        <div style="height:50px;width:100%"></div>
         <footbar></footbar>
     </div>
 </template>
