@@ -1,0 +1,31 @@
+.box {
+    width: 100%;
+    background: #ededed;
+    height: 100vh;
+    overflow: auto;
+  }
+  .both {
+    width: 98%;
+    margin: 0 auto;
+    background: #fff;
+  }
+.flex_center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex_v_center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.flex_l_center{
+    display: flex;
+    align-items: center;
+}
+.flex_between{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
